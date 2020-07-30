@@ -1,5 +1,6 @@
 DateYYYYMM;DaysInMonth;TotalPosts;RemovedPosts;RemainingQuestions;RemainingSpecial;AnsweredRate;IgnoredRate;EmptyRate;AnsweredQuestions;Flairs;FlairsWhoAnswered;FlairAnsweredQuestions;AvgAnswersPerDay;AvgFlairsPerDay;AvgFlairsWhoAnsweredPerDay;AvgFlairAnswersPerDay
 2017/01;31;45;2;43;0;100;0;0;43;63;30;29;1.38;2.03;0.96;0.93
+<<<<<<< HEAD
 2017/02;28;42;3;39;0;100;0;0;39;60;19;23;1.39;2.14;0.67;0.82
 2017/03;31;46;1;43;2;100;0;0;43;77;31;27;1.38;2.48;1;0.87
 2017/04;30;49;2;44;3;97.72;0;2.27;43;80;34;26;1.43;2.66;1.13;0.86
@@ -40,3 +41,5 @@ DateYYYYMM;DaysInMonth;TotalPosts;RemovedPosts;RemainingQuestions;RemainingSpeci
 2020/03;31;59;1;55;3;90.9;0;9.09;50;75;38;35;1.61;2.41;1.22;1.12
 2020/04;30;59;0;51;8;98.03;0;1.96;50;102;53;34;1.66;3.4;1.76;1.13
 2020/05;31;54;1;51;2;98.03;0;1.96;50;90;44;37;1.61;2.9;1.41;1.19
+=======
+>>>>>>> ea8b1eb41f746007411292e32d09d969690339d2
