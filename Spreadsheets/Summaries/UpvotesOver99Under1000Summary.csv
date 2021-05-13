@@ -1,4 +1,5 @@
 DateYYYYMM,DaysInMonth,TotalPosts,RemovedPosts,RemainingQuestions,RemainingSpecial,AnsweredRate,IgnoredRate,EmptyRate,AnsweredQuestions,Flairs,FlairsWhoAnswered,FlairAnsweredQuestions,AvgAnswersPerDay,AvgFlairsPerDay,AvgFlairsWhoAnsweredPerDay,AvgFlairAnswersPerDay
 2021/01,31,115,7,105,3,66.66,6.66,26.66,70,69,31,30,2.25,2.22,1,0.96
-2021/02,28,103,4,96,3,71.87,5.2,22.91,69,65,32,39,2.46,2.32,1.14,1.39
-2021/03,31,133,4,126,3,70.63,5.55,23.8,89,71,32,44,2.87,2.29,1.03,1.41
+2021/02,28,105,6,96,3,76.04,5.2,18.75,73,67,33,38,2.6,2.39,1.17,1.35
+2021/03,31,140,5,132,3,65.15,4.54,30.3,86,70,35,41,2.77,2.25,1.12,1.32
+2021/04,30,166,3,161,2,65.83,5.59,28.57,106,88,52,53,3.53,2.93,1.73,1.76
